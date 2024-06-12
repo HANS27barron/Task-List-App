@@ -1,12 +1,10 @@
-# my_first_app
+# Task-List-App
 
-A new Flutter project.
+My first project using Flutter and Android Studios.
 
-## Getting Started
+## What it is
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+This app allows to type in tasks as a list. These tasks can be marked as completed, and you have the ability to erease all tasks from the list or only those marked completed. You can also scroll the tasks to delete it. The username can also be changed in Settings. 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
